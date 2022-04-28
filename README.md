@@ -1,5 +1,11 @@
 # ESGF Melbourne (dev)
 
+Ce travail est réalisé en groupe:
+1- KA Abib
+2- TOP Papa Issa
+3- TRAN Thi thanh tam
+4- TRAORÉ Harouna
+
 ## Data
 
 Minimum daily temperatures over 10 years (1981-1990) in the city Melbourne, Australia.
